@@ -62,5 +62,6 @@
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/Gurkirat155"><img src="https://github-readme-stats.vercel.app/api?username=Gurkirat155&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=444e59&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gurkirat155's GitHub stats" /></a>
 <a href="http://www.github.com/Gurkirat155"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurkirat155&stroke=444e59&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=444e59&currStreakLabel=ef4444&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
-
+<a href="https://github.com/Gurkirat155" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat155&langs_count=10&title_color=ef4444&text_color=444e59&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
