@@ -2,6 +2,10 @@
 
 
 <h2 align="center">I am a Blockchain developer </h2>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurkirat155&label=Profile%20views&color=0e75b6&style=flat" alt="gurkirat155" /> </p>
+
   
 * NOTE:- I've changed my github account so all my projects are forked from my old github account [Here](https://github.com/gkirat)
 * ✉️  You can contact me at [guri252001@gmail.com](mailto:guri252001@gmail.com)
