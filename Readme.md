@@ -3,9 +3,9 @@
 
 <h2 align="center">I am a Blockchain developer </h2>
   
-* 🌍  I'm based in India
+* NOTE:- I've changed my github account so all my projects in forked from my old github account [Here](https://github.com/gkirat)
 * ✉️  You can contact me at [guri252001@gmail.com](mailto:guri252001@gmail.com)
-* 📁  All my projects are available [Here](https://github.com/gkirat)
+* 📁  All my projects are available [Here](https://github.com/gurkirat155)
 * 💬  Ask me anything related to blockchain technology and smart contract audting.
 
 ### Skills  
