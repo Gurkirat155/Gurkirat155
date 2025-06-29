@@ -28,7 +28,7 @@
 
 
 * Visit my website [Click Here](https://www.gurkirat.dev/)
-* You could read my blogs about fuzzing here[Click Here](https://gurkirat.hashnode.dev)
+* You could read my blogs about fuzzing here [Click Here](https://gurkirat.hashnode.dev)
 * NOTE:- I've changed my github account so all my projects are forked from my old github account [Here](https://github.com/gkirat)
 * ✉️  You can contact me at [guri252001@gmail.com](mailto:guri252001@gmail.com)
 * 📁  All my projects are available [Here](https://github.com/gurkirat155)
