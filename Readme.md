@@ -95,5 +95,5 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Gurkirat155"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurkirat155&stroke=444e59&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=444e59&currStreakLabel=ef4444&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu.vercel.app?user=gurkirat1155&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 
