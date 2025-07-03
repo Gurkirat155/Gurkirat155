@@ -60,4 +60,4 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 | Gibble       | March 2024   | 0            | 2        | 1          | 5       | 6                 | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Gibble.docx-2.pdf)  |
 | Tornado      | Feb 2024     | 0            | 0        | 0          | 4       | 2                 | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Interim%20-%20Tornado%20Blast%20Smart%20Contract%20Audit%20Report.docx.pdf)  |
 | Bitconnect   | Feb 2024     | 1            | 1        | 4          | 2       | 4                 | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Interim%20-%20Bitconnect%20Blast%20Smart%20Contract%20Audit%20Report.docx.pdf)  |
-| **Total**    | -            | **5**        | **31**   | **26**     | **52**  | **32**            |                   |                 |
+| **Total**    | -            | **5**        | **31**   | **29**     | **56**  | **34**            |                   |                 |
