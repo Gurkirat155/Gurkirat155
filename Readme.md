@@ -41,6 +41,9 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 
 | **Project**  | **Date**     | **High** | **Medium** | **Low** | **Informational** | **Report**        |
 |--------------|--------------|----------|------------|---------|-------------------|-------------------|
+|  Fun Token Multi Chain (0xTeam)  | April 2026     | 0        | 0          |  1      |  3                | [View Report]()  |
+|  Cash Vault (0xTeam)  | April 2026     | 0        | 0          |  1      |  2                | [View Report]()  |
+|  Defa Fuzzing (Entersoft)  | March 2026      | 1        | 0          |  0      |  1                | [View Report]()  |
 |  My Pet Hooligan MarketPlace (0xTeam)  | Jan 2026     | 1        | 0          |  2      |  0                | Soon  |
 |  Amgi Studios Tiered Gamimg (0xTeam)  | Dec 2025     | 2        | 4          |  6      |  3                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/TieredGame.pdf)  |
 |  AUDM (Entersoft)  | Dec 2025      | 0        | 0          |  0      |  2                | Soon  |
